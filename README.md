@@ -1,5 +1,20 @@
-Hello I would like you to send me ideas for projects you would like to have done in python.
+<p align="center">
+  <a>
+<img src="https://media.discordapp.net/attachments/732298693658542141/736232295467450368/fweak3.gif" alt="Avatar" style="border-radius: 75%;">
 
-I found this could be a good way of learning new stuff while being occupied with projects.
+<details style='text-align: center;' align='center'>
+  <summary> Info </summary>
+    <p style="text-align: center;"align="center">------------------------------------------------------------</p>
+  <p style="text-align: center;"align="center">I'm: 14</p></a>
+  <p style="text-align: center;"align="center"></p>I live in: Czech Republic</a>
+  <p style="text-align: center;"align="center">Doing mostly school</p></a>
+  <p style="text-align: center;"align="center">------------------------------------------------------------</p>
+</details>
 
-So feel free to join my discord and send me your ideas. https://discord.gg/2xpXsD5
+<details style='text-align: center;' align='center'>
+  <summary>Social</summary>
+  <a href="https://twitter.com/Duchy_12"><p style="text-align: center;">Twitter</p></a>
+  <a href="https://discord.com/users/498036626249744384"><p style="text-align: center;">Discord</p></a>
+</details>
+
+<h6 style='text-align: center;' align='center'> Idea the readme -> github.com/0xKyoto </h6>
