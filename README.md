@@ -13,8 +13,8 @@
 
 <details style='text-align: center;' align='center'>
   <summary>Social</summary>
-  <a href="https://twitter.com/Duchy_12"><p style="text-align: center;">Twitter</p></a>
-  <a href="https://discord.com/users/498036626249744384"><p style="text-align: center;">Discord</p></a>
+  <a href="https://twitter.com/Duchy_12"><p style="text-align: center;align="center">Twitter</p></a>
+  <a href="https://discord.com/users/498036626249744384"><p style="text-align: center;"align="center">Discord</p></a>
 </details>
 
 <h6 style='text-align: center;' align='center'> Idea the readme -> github.com/0xKyoto </h6>
