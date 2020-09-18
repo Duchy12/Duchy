@@ -1,20 +1,25 @@
 <p align="center">
   <a>
-<img src="https://cdn.discordapp.com/emojis/698241153929314345.gif?v=1" alt="Avatar" style="border-radius: 75%;">
+<img src="https://media.discordapp.net/attachments/732298693658542141/736232295467450368/fweak3.gif" alt="Avatar" style="border-radius: 75%;">
+  </a><br>
+  Immature person<br>
+  Hates school<br>
+  That's all you need to know<br>
+</p>
 
 <details style='text-align: center;' align='center'>
-  <summary> Info </summary>
+  <summary> Information </summary>
   <p style="text-align: center;"align="center">------------------------------------------------------------</p>
-  <p style="text-align: center;"align="center">I'm: 14</p></a>
-  <p style="text-align: center;"align="centerI live in: Czech Republicl</p></a>
-  <p style="text-align: center;"align="center">Doing mostly school</p></a>
+  <p style="text-align: center;"align="center">Age: 14 </p></a>
+  <p style="text-align: center;"align="center">Location: California, USA</p></a>
+  <p style="text-align: center;"align="center">Doing school most of the time</p></a>
   <p style="text-align: center;"align="center">------------------------------------------------------------</p>
 </details>
 
 <details style='text-align: center;' align='center'>
-  <summary>Social</summary>
-  <a href="https://twitter.com/Duchy_12"><p style="text-align: center;align="center">Twitter</p></a>
+  <summary>Social Info</summary>
+  <a href="https://twitter.com/Duchy_12"><p style="text-align: center;"align="center">Twitter</p></a>
   <a href="https://discord.com/users/498036626249744384"><p style="text-align: center;"align="center">Discord</p></a>
 </details>
 
-<h6 style='text-align: center;' align='center'> Idea for the readme -> github.com/0xKyoto </h6>
+<h6 style='text-align: center;' align='center'> Legit stole this from https://github.com/Fweak because I'm a lazy piece of shit</h6>
