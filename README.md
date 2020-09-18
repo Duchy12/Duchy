@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-<img src="https://cdn.discordapp.com/avatars/498036626249744384/31d19df4df62e6486779b287f398b1b8.png" alt="Avatar" style="border-radius: 75%;">
+<img src="https://cdn.discordapp.com/avatars/498036626249744384/31d19df4df62e6486779b287f398b1b8.png" alt="Avatar" style="border-radius: 90%;">
 
 <details style='text-align: center;' align='center'>
   <summary> Info </summary>
