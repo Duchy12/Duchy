@@ -1,4 +1,6 @@
-<img src="https://cdn.discordapp.com/avatars/498036626249744384/31d19df4df62e6486779b287f398b1b8.png?size=256" alt="Avatar" style="border-radius: 50%;">
+<p align="center">
+  <a>
+<img src="https://media.discordapp.net/attachments/732298693658542141/736232295467450368/fweak3.gif" alt="Avatar" style="border-radius: 50%;">
 
 <details style='text-align: center;' align='center'>
   <summary> Info </summary>
