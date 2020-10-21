@@ -23,5 +23,3 @@
   <a href="https://twitter.com/Duchy_12"><p style="text-align: center;"align="center">Twitter</p></a>
   <a href="https://discord.com/users/498036626249744384"><p style="text-align: center;"align="center">Discord</p></a>
 </details>
-
-<h6 style='text-align: center;' align='center'> Legit stole this from https://github.com/Fweak because I'm a lazy piece of shit</h6>
