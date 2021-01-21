@@ -18,8 +18,4 @@
   <p style="text-align: center;"align="center">------------------------------------------------------------</p>
 </details>
 
-<details style='text-align: center;' align='center'>
-  <summary>Social Info</summary>
-  <a href="https://twitter.com/Duchy_12"><p style="text-align: center;"align="center">Twitter</p></a>
-  <a href="https://discord.com/users/498036626249744384"><p style="text-align: center;"align="center">Discord</p></a>
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duchy12)]
