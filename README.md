@@ -18,4 +18,4 @@
   <p style="text-align: center;"align="center">------------------------------------------------------------</p>
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duchy12)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duchy12&theme=dracula&show_icons=true)]
