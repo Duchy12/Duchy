@@ -8,16 +8,6 @@
   That's all you need to know<br>
   Like 3 useless public repos<br>
 </p>
-
-<details style='text-align: center;' align='center'>
-  <summary> Information </summary>
-  <p style="text-align: center;"align="center">------------------------------------------------------------</p>
-  <p style="text-align: center;"align="center">Age: 14 </p></a>
-  <p style="text-align: center;"align="center">Lives in: Czech Republic</p></a>
-  <p style="text-align: center;"align="center">Doing school most of the time</p></a>
-  <p style="text-align: center;"align="center">------------------------------------------------------------</p>
-</details>
-
 <h1 align="center">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </h1>
