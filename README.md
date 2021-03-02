@@ -18,4 +18,4 @@
   <p style="text-align: center;"align="center">------------------------------------------------------------</p>
 </details>
 
-![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+<center>![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)</center>
