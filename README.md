@@ -18,4 +18,4 @@
   <p style="text-align: center;"align="center">------------------------------------------------------------</p>
 </details>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duchy12&?exclude=duchy12.github.io&theme=dracula)
+![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
