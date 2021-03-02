@@ -9,5 +9,5 @@
   Like 3 useless public repos<br>
 </p>
 <h1 align="center">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<a href="https://www.w3schools.com/python/"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a>
 </h1>
